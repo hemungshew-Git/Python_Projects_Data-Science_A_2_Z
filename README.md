@@ -2,6 +2,9 @@
 A hands-on journey through Python for Data Science — Covers statistics, probability, data wrangling, visualization, and machine learning USING excel :: python(scikit-learn) &amp; R while exploring uncommon (but interesting) practical mini applications across engineering and analytics.
 https://share.gemini.google/lsigRO9mmB23
 
+https://uw-amo.github.io/AMO_Site/software/sr3/
+
+
 we can't see beyond 3d ! All fitted lines linear or non_linear we can see only in 2d.
 but we all can imagine all in multi dimensions !
 example:: y = bo + bi*X(i)
